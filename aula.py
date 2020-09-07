@@ -1,6 +1,9 @@
 a = int(input("Digite um valor: "))
 b = int(input("Digite um valor: "))
+c = int(input("DIgite um valor: "))
 
-soma = a + b
+media = a + b + c / 3
 
-print(soma)
+print(media)
+
+
